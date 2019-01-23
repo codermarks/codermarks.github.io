@@ -65,6 +65,7 @@ p {
 
 #header{
 	height: 115px;
+	min-width: 445px;
 }
 
 #footer {
